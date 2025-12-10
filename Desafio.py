@@ -4,5 +4,5 @@
 numero1=10
 numero2=8
 
-resultado=numero1%numero2
+resultado=numero1*numero2
 print(resultado)
